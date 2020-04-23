@@ -1,0 +1,2 @@
+# Background-Genrator
+MULTI COLOUR BACKGROUND GENERATOR 
